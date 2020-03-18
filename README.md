@@ -1,3 +1,3 @@
-# Programming Project
+# Programming Project : Classification of images from biomedical literature
 
-Programming project involving image classification and rest API creation.
+This programming project involving image classification and rest API creation using JAVA.
