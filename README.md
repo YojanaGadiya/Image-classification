@@ -1,2 +1,3 @@
-# Image-classification
-A java project for classification of biomedical images
+# Programming Project
+
+Programming project involving image classification and rest API creation.
